@@ -21,7 +21,7 @@ I love building robust systems and exploring innovative tech—especially in **e
   - Diploma in Computer Engineering, Government Polytechnic Ahmedabad – **CGPA: 9.40**
   - SSC, Sarvodaya Vidhya Mandir – **79.5%**
 
-- 🚀 **Current Role:**
+- 🚀 **Experience:**
   **Android Developer Intern @ BISAG-N**  
   Working on **SamajConnect**: a community management Android app featuring dynamic tree-based relationship mapping, real-time updates, event donations, and more.
 
