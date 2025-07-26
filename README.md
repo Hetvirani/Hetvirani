@@ -55,19 +55,6 @@ I'm Het Virani, a passionate and driven Bachelor of Technology student at Pandit
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetvirani&show_icons=true&theme=tokyonight" alt="Hetvirani's GitHub stats" width="420">
-  <img src="https://streak-stats.demolab.com/?user=Hetvirani&theme=tokyonight" alt="GitHub Streak" width="350">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hetvirani&theme=tokyo-night" width="100%">
-</p>
-
----
-
 ### 🌱 Fun Fact
 
 I enjoy solving complex problems, collaborating on innovative projects, and always strive for continuous learning. Let’s connect!
