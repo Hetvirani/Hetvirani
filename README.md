@@ -23,7 +23,7 @@ I love building robust systems and exploring innovative tech—especially in **e
 
 - 🚀 **Experience:**
   **Android Developer Intern @ BISAG-N**  
-  Working on **SamajConnect**: a community management Android app featuring dynamic tree-based relationship mapping, real-time updates, event donations, and more.
+  Working on **SamajConnect**: a community management Android app featuring dynamic tree-based relationship mapping, real-time updates, and more.
 
 - 🛠️ **Skills & Tools:**  
   `C/C++` • `Java` • `Embedded C` • `JavaScript` • `PHP` • `HTML` • `CSS`  
@@ -42,7 +42,7 @@ I love building robust systems and exploring innovative tech—especially in **e
 
 #### 🔹 SamajConnect – Community Management App  
 - Developed during internship at **BISAG-N**, SamajConnect is an Android app that allows users to create and manage *Samaj* (community) groups.  
-- Features include real-time notifications, event donations, and member profiles.  
+- member profiles update.
 - A key highlight is the dynamic tree-based relationship mapping using Canvas, enabling users to send/accept familial relation requests and visualize generation-wise structure.  
 <sub><sup>Technologies: Java, Android, Spring Boot, PostgreSQL, RESTFUL API</sup></sub>
 
