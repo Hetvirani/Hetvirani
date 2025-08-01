@@ -26,7 +26,7 @@ I love building robust systems and exploring innovative tech—especially in **e
   Working on **SamajConnect**: a community management Android app featuring dynamic tree-based relationship mapping, real-time updates, and more.
 
 - 🛠️ **Skills & Tools:**  
-  `C/C++` • `Java` • `Embedded C` • `JavaScript` • `PHP` • `HTML` • `CSS`  
+  `C/C++` • `Java` • `SpringBoot`  • `Embedded C` • `JavaScript` • `PHP` • `HTML` • `CSS`  
   Logisim • Android Studio • VS Code • Ansys HFSS • MATLAB • AWS • EC2 • Docker  
   MySQL • PostgreSQL • Firebase
 
