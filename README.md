@@ -56,7 +56,7 @@ I love building robust systems and exploring innovative tech—especially in **e
 
 ---
 
-####🔹 Smart Posture Monitoring System (IoT + Machine Learning)
+#### 🔹 Smart Posture Monitoring System (IoT + Machine Learning)
 - Designed and implemented a real-time IoT-based posture detection system using ESP32, flex sensor, and dual ultrasonic sensors to monitor spinal bending and back-to-chair distance.
 - Built a machine learning Decision Tree model using real sensor data (200+ samples) to classify Good vs Bad posture with ~92–95% accuracy, then converted the learned thresholds into embedded C logic for on-device inference.
 - Implemented noise filtering using moving average for both flex and ultrasonic signals to ensure stable and reliable posture detection.
