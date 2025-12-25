@@ -56,6 +56,20 @@ I love building robust systems and exploring innovative tech—especially in **e
 
 ---
 
+🔹 Smart Posture Monitoring System (IoT + Machine Learning)
+
+Designed and implemented a real-time IoT-based posture detection system using ESP32, flex sensor, and dual ultrasonic sensors to monitor spinal bending and back-to-chair distance.
+
+Built a machine learning Decision Tree model using real sensor data (200+ samples) to classify Good vs Bad posture with ~92–95% accuracy, then converted the learned thresholds into embedded C logic for on-device inference.
+
+Implemented noise filtering using moving average for both flex and ultrasonic signals to ensure stable and reliable posture detection.
+
+Integrated Blynk IoT platform to send instant mobile notifications when poor posture is detected, enabling users to correct posture in real time.
+
+Designed a portable, low-cost and privacy-safe solution that avoids cameras and wearable devices, making it suitable for students and office professionals.
+
+<sub><sup>Technologies: ESP32, Embedded C, Ultrasonic Sensors, Flex Sensor, Python, Scikit-learn, Blynk IoT, IoT, Machine Learning</sup></sub>
+
 #### 🔹 Real-Time Embedded Voting System  
 - Designed and implemented a **real-time embedded voting system** on AVR microcontroller with integrated LCD, keypad, and LED interfaces.  
 - Integrated **hardware timer interrupts** to enforce user action timeouts and optimize system responsiveness.  
